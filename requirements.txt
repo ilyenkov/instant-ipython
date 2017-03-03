@@ -23,5 +23,6 @@ pandas==0.19.2
 seaborn==0.7.1
 folium==0.2.1
 git+git://github.com/ipython-contrib/jupyter_contrib_nbextensions.git
+git+git://github.com/matplotlib/basemap.git
 ipywidgets==5.2.2
 conda
