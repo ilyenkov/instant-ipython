@@ -24,3 +24,4 @@ seaborn==0.7.1
 folium==0.2.1
 git+git://github.com/ipython-contrib/jupyter_contrib_nbextensions.git
 ipywidgets==5.2.2
+conda
